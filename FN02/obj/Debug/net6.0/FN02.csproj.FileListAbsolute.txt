@@ -1,0 +1,15 @@
+/Users/aditep/Desktop/FN02/bin/Debug/net6.0/FN02
+/Users/aditep/Desktop/FN02/bin/Debug/net6.0/FN02.deps.json
+/Users/aditep/Desktop/FN02/bin/Debug/net6.0/FN02.runtimeconfig.json
+/Users/aditep/Desktop/FN02/bin/Debug/net6.0/FN02.dll
+/Users/aditep/Desktop/FN02/bin/Debug/net6.0/FN02.pdb
+/Users/aditep/Desktop/FN02/obj/Debug/net6.0/FN02.csproj.AssemblyReference.cache
+/Users/aditep/Desktop/FN02/obj/Debug/net6.0/FN02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditep/Desktop/FN02/obj/Debug/net6.0/FN02.AssemblyInfoInputs.cache
+/Users/aditep/Desktop/FN02/obj/Debug/net6.0/FN02.AssemblyInfo.cs
+/Users/aditep/Desktop/FN02/obj/Debug/net6.0/FN02.csproj.CoreCompileInputs.cache
+/Users/aditep/Desktop/FN02/obj/Debug/net6.0/FN02.dll
+/Users/aditep/Desktop/FN02/obj/Debug/net6.0/refint/FN02.dll
+/Users/aditep/Desktop/FN02/obj/Debug/net6.0/FN02.pdb
+/Users/aditep/Desktop/FN02/obj/Debug/net6.0/FN02.genruntimeconfig.cache
+/Users/aditep/Desktop/FN02/obj/Debug/net6.0/ref/FN02.dll
